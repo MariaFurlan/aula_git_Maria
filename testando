@@ -1,0 +1,6 @@
+temperaturaC = int(input('qual é a temperatura em celcius?'))
+def calc (celcius):
+    resultado = (celcius * 9/5) + 32
+    return resultado 
+
+print(calc(temperaturaC))
