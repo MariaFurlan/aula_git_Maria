@@ -1,0 +1,4 @@
+texto = (input('escreva seu texto:'))
+def contador (texto):
+    return (len(texto.split(" ")))
+print(contador(texto))
