@@ -8,4 +8,5 @@ def validador(numero):
         contador +1
         return primo
     
+    
 print(validador(numero))
