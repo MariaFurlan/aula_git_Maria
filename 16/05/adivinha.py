@@ -13,6 +13,5 @@ def numero_aleatorio():
         if (aleatorio>chute):
             print('Tente um valor maior')
     print("tentativas " + str(contador))
-
 numero_aleatorio()
 
