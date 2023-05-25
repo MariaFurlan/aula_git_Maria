@@ -14,7 +14,8 @@ def numero_aleatorio():
             print('Tente um valor maior')
     print("tentativas " + str(contador))
 
-    
+
+
 
 numero_aleatorio()
 
